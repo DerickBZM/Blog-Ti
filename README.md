@@ -11,6 +11,8 @@ Site estático otimizado para publicar no GitHub Pages, Hostinger, Netlify, Verc
 - Página de suporte com ofertas comerciais e CTA para WhatsApp.
 - Política de privacidade, `robots.txt`, `sitemap.xml` e `ads.txt`.
 - Espaços de publicidade marcados como "Publicidade".
+- Identidade visual original em estilo futurista/neon, sem uso de imagens de franquias ou marcas de terceiros.
+- Páginas de confiança: Sobre, Contato e Termos de uso.
 
 ## Configuração obrigatória para monetização
 
@@ -20,8 +22,8 @@ Site estático otimizado para publicar no GitHub Pages, Hostinger, Netlify, Verc
 4. Abra `script.js` e preencha os IDs em `AD_SLOTS`.
 5. Mantenha o arquivo `ads.txt` na raiz do domínio.
 6. Configure Analytics ou outro painel para medir páginas mais acessadas e conversões no WhatsApp.
+7. Se o AdSense acusar conta duplicada, resolva isso dentro da conta Google antes de reenviar o site. O código do site não consegue corrigir conta duplicada.
 
 ## Observação comercial
 
 Receita de anúncios depende de tráfego, nicho, RPM, aprovação do AdSense e otimização contínua. A parte de vendas depende da oferta, velocidade de resposta no WhatsApp e taxa de fechamento.
-
